@@ -1,2 +1,3 @@
-# Name of your plugin
-Description of your plugin.
+# unms-barcode-generator
+Plugin which is used to include barcodes to UNMS .twig templates.
+Produced barcode is shown as jpeg image.
