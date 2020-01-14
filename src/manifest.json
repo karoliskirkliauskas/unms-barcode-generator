@@ -1,0 +1,19 @@
+{
+    "version": "1",
+    "information": {
+        "name": "unms-barcode-generator",
+        "displayName": "Barcode Generator",
+        "description": "Plugin used to generate barcode by prodived number using UNMS API endpoint.",
+        "url": "https://github.com/karoliskirkliauskas/unms-barcode-generator",
+        "version": "1.0.0",
+        "ucrmVersionCompliancy": {
+            "min": "2.14.0",
+            "max": null
+        },
+        "unmsVersionCompliancy": {
+            "min": "1.0.0-dev.1",
+            "max": null
+        },
+        "author": "Karolis Kirkliauskas"
+    }
+}

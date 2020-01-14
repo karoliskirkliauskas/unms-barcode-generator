@@ -1,0 +1,7 @@
+vendor/
+data/
+ucrm.json
+.ucrm-plugin-running
+.ucrm-plugin-execution-requested
+installer
+*.zip

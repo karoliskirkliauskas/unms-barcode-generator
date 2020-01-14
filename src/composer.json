@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": ">=7.1",
+        "ubnt/ucrm-plugin-sdk": "~0.4",
+        "picqer/php-barcode-generator": "^2.0"
+    }
+}
